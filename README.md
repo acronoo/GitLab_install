@@ -3,8 +3,8 @@ Install your own gitlab server
 
 More info comming soon.
 
-*********************** Docker image ***********************
-https://hub.docker.com/r/gitlab/gitlab-ee/  
-************************************************************
+*********************** Docker image *********************** <br/>
+https://hub.docker.com/r/gitlab/gitlab-ee/  <br/>
+************************************************************** <br/>
 
 
